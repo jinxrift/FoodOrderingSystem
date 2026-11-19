@@ -44,8 +44,8 @@ This project demonstrates core **Database Management System (DBMS)** concepts su
 
 ---
 
-#Running It
-
+# Running It
+```bash
 # Backend
 pip install flask
 python backend_app.py        # starts on :5050, seeds DB automatically
@@ -53,7 +53,7 @@ python backend_app.py        # starts on :5050, seeds DB automatically
 # Frontend (in a React project)
 # Replace src/App.js content with food_ordering_app.jsx
 npm start
-
+```
 ---
 
 # Project Structure
